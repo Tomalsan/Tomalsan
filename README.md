@@ -3,9 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomalsan&label=Profile%20views&color=0e75b6&style=flat" alt="tomalsan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomalsan" alt="tomalsan" /></a>
- <img align="right" src="https://github.com/Tomalsan/Tomalsan/blob/main/imag.jpg" width="400" alt="Your Name" /></p> 
-<p align="right">
+<p align="left" width="100%">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tomalsan" alt="tomalsan" />
+  </a>
+  <img align="right" src="https://github.com/Tomalsan/Tomalsan/blob/main/imag.jpg" width="200" alt="Your Name" />
+</p>
  
 </p>
 
