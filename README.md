@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomalsan&label=Profile%20views&color=0e75b6&style=flat" alt="tomalsan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomalsan" alt="tomalsan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomalsan" alt="tomalsan" /></a>
+ <img align="right" src="https://github.com/Tomalsan/Tomalsan/blob/main/imag.jpg" width="400" alt="Your Name" /></p> 
+<p align="right">
+ 
+</p>
 
 - 🔭 I’m currently working on [Pawn-Y, a full-stack trading application built with MERN stack](https://github.com/Tomalsan/Pawn-Y)
 
@@ -20,6 +24,8 @@
 - 📄 Know about my experiences [https://github.com/Tomalsan/New_Academic_CV](https://github.com/Tomalsan/New_Academic_CV)
 
 - ⚡ Fun fact **I believe Machine Learning Sucks**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
